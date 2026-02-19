@@ -27,7 +27,7 @@ Minimum Viable Product (MVP) являє собою систему на базі 
 
 ### 1. Клонування репозиторію
 ```bash
-git clone [https://github.com/Wadzik/greenhouse-automation.git](https://github.com/Wadzik/greenhouse-automation.git)
+git clone https://github.com/Wadzik/greenhouse-automation.git
 cd greenhouse-automation
 2. Компіляція
 Для збірки проєкту використовуйте make або відповідну IDE (VS Code + PlatformIO):
